@@ -1,0 +1,26 @@
+﻿'Tetris.exe' (Win32): Loaded 'C:\Users\User\source\repos\Tetris\Debug\Tetris.exe'. Symbols loaded.
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+The thread 0x35a4 has exited with code 0 (0x0).
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Tetris.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x3e8c has exited with code 0 (0x0).
+The thread 0x1cf4 has exited with code 0 (0x0).
+The thread 0x379c has exited with code 0 (0x0).
+The program '[6444] Tetris.exe' has exited with code 0 (0x0).
